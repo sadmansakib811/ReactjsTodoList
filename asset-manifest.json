@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://sadmansakib811.github.io/csb-esy5zd/static/js/main.c49348b8.chunk.js",
+    "main.js.map": "https://sadmansakib811.github.io/csb-esy5zd/static/js/main.c49348b8.chunk.js.map",
+    "runtime-main.js": "https://sadmansakib811.github.io/csb-esy5zd/static/js/runtime-main.502fba9e.js",
+    "runtime-main.js.map": "https://sadmansakib811.github.io/csb-esy5zd/static/js/runtime-main.502fba9e.js.map",
+    "static/js/2.993384cc.chunk.js": "https://sadmansakib811.github.io/csb-esy5zd/static/js/2.993384cc.chunk.js",
+    "static/js/2.993384cc.chunk.js.map": "https://sadmansakib811.github.io/csb-esy5zd/static/js/2.993384cc.chunk.js.map",
+    "index.html": "https://sadmansakib811.github.io/csb-esy5zd/index.html",
+    "precache-manifest.33c7d63cc738536f0251864602eb95cd.js": "https://sadmansakib811.github.io/csb-esy5zd/precache-manifest.33c7d63cc738536f0251864602eb95cd.js",
+    "service-worker.js": "https://sadmansakib811.github.io/csb-esy5zd/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.502fba9e.js",
+    "static/js/2.993384cc.chunk.js",
+    "static/js/main.c49348b8.chunk.js"
+  ]
+}
